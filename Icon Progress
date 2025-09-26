@@ -162,7 +162,10 @@ Silver Knight's Gloves > Crimson Valkyrie Gloves ✅
 Silver Knight's Gloves > Sky Judgement Gloves ✅ 
 Legplates of the Demoic Wolf > Legplates of the Demonic Wolf ✅
 Redirected Fiery wings from "Girl/ACC/ACC_TB_03_BACK_01_01_L0.nif" > "Gothloli/ACC/ACC_TB_03_BACK_01_01_L0.nif" ✅
-Renamed ToyBattles > ToyBattles Icon  ✅
+Renamed ToyBattles > ToyBattles Icon ✅
+Renamed Black Shoes > Black Converse ✅
+Renamed Purple Shoes > Purple Converse ✅
+Renamed White Shoes > White Converse ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Item Descriptions]
@@ -208,6 +211,7 @@ Added the correct Description for Skinny Jeans "Who would've thought some stylis
 Added the correct Description for Blue Devil Headbands "Made exclusively for participating in Color-Splash Event during ToyBattles Beta Phase - Made By mnml" ✅
 Added the correct Description for Yellow Devil Headbands "Made exclusively for participating in Color-Splash Event during ToyBattles Beta Phase - Made By mnml" ✅
 Added item Description "Shiesty. - Made By numnum" for Ski Mask ✅
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                    [Weapon Icons Added to .DDS files]
@@ -303,7 +307,8 @@ Created & Added Dark Shaman Top icon to "icon_costume_UPPER_E_03.dds" ✅
 Added Shadow Rebel Hotpants Icon to "icon_costume_UNDER_A_07.dds" ✅
 Created & Crimson Valkyrie Legplates Hotpants Icon to "icon_costume_UNDER_A_07.dds" ✅
 Created & Added Sky Judgement Legplates Icon to "icon_costume_UNDER_A_07.dds" ✅
-Added Skinny legs icon to "icon_costume_UNDER_A_07.dds"
+Added Skinny legs icon to "icon_costume_UNDER_A_07.dds" ✅
+Added Game Master Leggings Icon to "icon_costume_UNDER_A_07.dds" ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                        [Hand Icons added to .DDS files]
@@ -311,10 +316,11 @@ Created & Added Guantlets of the Demonic Wolf icon to "icon_costume_ARM_E_01.dds
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                        [Boots Icons added to .DDS files]
-Created & Added Classy Swimsuit Boots Icon to "icon_costume_BOOTS_A_01.dds" ✅
-Created & Added Stylish Swimsuit Boots Icon to "icon_costume_BOOTS_A_01.dds" ✅
-Created & Added Black Converse Icon to "icon_costume_BOOTS_A_01.dds" ✅
-Created & Added Purple Converse Icon to "icon_costume_BOOTS_A_01.dds" ✅
-Created & Added White Converse Icon to "icon_costume_BOOTS_A_01.dds" ✅
+Added Shadow Rebel Boots icon to "icon_costume_BOOTS_A_01.dds" ✅
+Added Classy Swimsuit Boots Icon to "icon_costume_BOOTS_A_01.dds" ✅
+Added Stylish Swimsuit Boots Icon to "icon_costume_BOOTS_A_01.dds" ✅
+Added Black Converse Icon to "icon_costume_BOOTS_A_01.dds" ✅
+Added Purple Converse Icon to "icon_costume_BOOTS_A_01.dds" ✅
+Added White Converse Icon to "icon_costume_BOOTS_A_01.dds" ✅
 
 Created & Added Dark Shaman Boots Icon to "icon_costume_BOOTS_E_02.dds" ✅
