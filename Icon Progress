@@ -131,11 +131,12 @@ White Converse - 1766758 & 1766759 ✅✔️ "icon_costume_BOOTS_A_01.dds" Offse
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                             [Glove Icons Finished]
 
-Guantlets of the Demonic Wolf - 1650552 & 1650553 ✅ ✔️
-Classy Swimsuit Hands - 1610254 & 1610255 ✔️
-Stylish Swimsuit Hands - 1610256 & 1610257 ✔️
-Crimson Valkyrie Gloves - 1611852 & 1611853 ✅ ✔️
-Sky Judgement Gloves - 1611854 & 1611855 ✅ ✔️
+Guantlets of the Demonic Wolf - 1650552 & 1650553 ✅ ✔️ "icon_costume_ARM_E_01.dds offset 10
+
+Classy Swimsuit Hands - 1610254 & 1610255 ✅ ✔️ "icon_costume_ARM_A_02.dds Offset 5
+Stylish Swimsuit Hands - 1610256 & 1610257 ✅ ✔️ "icon_costume_ARM_A_02.dds Offset 6
+Crimson Valkyrie Gloves - 1611852 & 1611853 ✅ ✔️ "icon_costume_ARM_A_01.dds" Offset 18
+Sky Judgement Gloves - 1611854 & 1611855 ✅ ✔️ "icon_costume_ARM_A_01.dds" Offset 18
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -157,7 +158,7 @@ Silver Knight's Legs > Sky Judgement Legs ✅
 Silver Knight's Gloves > Crimson Valkyrie Gloves ✅ 
 Silver Knight's Gloves > Sky Judgement Gloves ✅ 
 Legplates of the Demoic Wolf > Legplates of the Demonic Wolf ✅
-Redirected Fiery wings from "Girl/ACC/ACC_TB_03_BACK_01_01_L0.nif" > "Gothloli/ACC/ACC_TB_03_BACK_01_01_L0.nif"
+Redirected Fiery wings from "Girl/ACC/ACC_TB_03_BACK_01_01_L0.nif" > "Gothloli/ACC/ACC_TB_03_BACK_01_01_L0.nif" ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Item Descriptions]
@@ -187,10 +188,10 @@ Modified Description of Red Eyes of Varvatos and added "- Made By Wave" ✅
 Modified Description of Armor of the Demonic Wolf and added "- Made By Wave" ✅
 Modified Description of Gauntlets of the Demonic Wolf and added "- Made By Wave" ✅
 Modified Description of Legplates of the Demonic Wolf and added "- Made By Wave" ✅
-Added the correct Description for Fiery Wings to "Flight with a mischievous red glow, perfect for a devilish flair." 
-Added the correct Description for Black Converse "Brings back memories, right? It's for the ones who don't care about getting their shoes dirty. - Made By Aquarius"
-Added the correct Description for Purple Converse "Brings back memories, right? It's for the ones who like to stand out! - Made By Aquarius."
-Added the correct Description for White Converse "Brings back memories, right? It's for the ones who always come up with brighter outfit ideas! - Made By Aquarius"
+Added the correct Description for Fiery Wings to "Flight with a mischievous red glow, perfect for a devilish flair."  ✅
+Added the correct Description for Black Converse "Brings back memories, right? It's for the ones who don't care about getting their shoes dirty. - Made By Aquarius" ✅
+Added the correct Description for Purple Converse "Brings back memories, right? It's for the ones who like to stand out! - Made By Aquarius." ✅
+Added the correct Description for White Converse "Brings back memories, right? It's for the ones who always come up with brighter outfit ideas! - Made By Aquarius" ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                    [Weapon Icons Added to .DDS files]
