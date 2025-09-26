@@ -40,8 +40,8 @@ Yellow Devil Headband - 2312154 & 2312155 ✅ ☑️ ✔️ "icon_acc_MASK_10.dd
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                         [Back Accessories Icons Finished]
 
-Shimmering Wings - 2512856 & 2512857 ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 7 (HAS DURATIONS)
-Fiery Wings - 2512856 & 2512857 ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 8 (HAS DURATIONS)
+Shimmering Wings - 2512854 & 2512855 ✅  ✔️ "icon_acc_BACK_08.dds" offset 7 (HAS DURATIONS)
+Fiery Wings - 2512856 & 2512857 ✅  ✔️ "icon_acc_BACK_08.dds" offset 8 (HAS DURATIONS)
 Green Icon - 2530257 & 2530258  ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 9 (HAS DURATIONS)
 Black Icon - 2530255 & 2530256  ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 10 (HAS DURATIONS)
 White Icon - 2530252 & 2530253 & 2530254 (no option) ✅ ☑️ ✔️ icon_acc_BACK_08.dds" offset 11 (HAS DURATIONS)
@@ -116,6 +116,7 @@ Dark Shaman Legs - 1550754 & 1550755 ✅ ☑️ ✔️ "icon_costume_UNDER_E_03.
 Shadow Rebel Hotpants - 1512854 & 1512855 ✅ ☑️ ✔️ "icon_costume_UNDER_A_07.dds" Offset 23
 Crimson Valkyrie Legplates - 1515352 & 1515353 ✅ ☑️ ✔️ "icon_costume_UNDER_A_07.dds" Offset 24
 Sky Judgement Valkyrie - 1515354 & 1515355 ✅ ☑️ ✔️ "icon_costume_UNDER_A_07.dds" Offset 25
+Skinny Jeans - 1516954 & 1516955 ✔️ ☑️ "icon_costume_UNDER_A_07.dds" Offset 26
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Boot Icons Finished]
@@ -160,6 +161,7 @@ Silver Knight's Gloves > Crimson Valkyrie Gloves ✅
 Silver Knight's Gloves > Sky Judgement Gloves ✅ 
 Legplates of the Demoic Wolf > Legplates of the Demonic Wolf ✅
 Redirected Fiery wings from "Girl/ACC/ACC_TB_03_BACK_01_01_L0.nif" > "Gothloli/ACC/ACC_TB_03_BACK_01_01_L0.nif" ✅
+Renamed ToyBattles > ToyBattles Icon  ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Item Descriptions]
@@ -193,6 +195,15 @@ Added the correct Description for Fiery Wings to "Flight with a mischievous red 
 Added the correct Description for Black Converse "Brings back memories, right? It's for the ones who don't care about getting their shoes dirty. - Made By Aquarius" ✅
 Added the correct Description for Purple Converse "Brings back memories, right? It's for the ones who like to stand out! - Made By Aquarius." ✅
 Added the correct Description for White Converse "Brings back memories, right? It's for the ones who always come up with brighter outfit ideas! - Made By Aquarius" ✅
+Added "- Made By Slauj" To Autumn Wreath Crown
+Added "3d Version of the Green Wreath Crown - Made By Slauj" to Green Wreath Crown(Remake)
+Added "- Made by Fruitblend" to Sakura Wreath Crown
+Added "- Made by Fruitblend" to Red Wreath Crown
+Added "- Made by Fruitblend" to Purple Wreath Crown
+Added the correct Description for Storm Wreath Crown "Feel the storm with every strike. Made by Burberryx."
+Added the correct Description for Frozen Wreath Crown "A crown forged in frost - stay cool. Made by Burberryx."
+Added the correct description for Toybattles Icon "ToyBattles Icon - Made by Slauj"
+Added the correct Description for Skinny Jeans "Who would've thought some stylish skinny jeans could be out of fashion? - Made By Spiritbox"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                    [Weapon Icons Added to .DDS files]
