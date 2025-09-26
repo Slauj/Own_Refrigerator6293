@@ -76,17 +76,18 @@ Crimson Valkyrie Headgear - 1116052 & 1116053 ✅ ✔️ "icon_costume_HAIR_A_09
 Sky Judgement Headgear - 1116054 &  1116055  ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 4 
 Classy Swimsuit Hair - 1113952 & 1113953 ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 5
 Stylish Swimsuit Hair - 1113954 & 1113955 ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 6
-Game Master Hair - 1168052 & 1168053 ✔️ 
+Game Master Hair - 1168052 & 1168053 ✔️ "icon_costume_HAIR_A_09.dds" offset 7
 
-Ski Mask - 1130552 & 1130553 ✅ ✔️ 
+Ski Mask - 1130552 & 1130553 ✅ ✔️ "icon_costume_HAIR_C_01.dds" offset 11
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Face Icons Finished]
 
-Red Eyes of Varvatos - 1251652 & 1251653  ✔️
-Shadow Rebel Face - 1210352 & 1210353  ✔️
-Classy Face - 1210852 & 1210853 ✔️
-Stylish Face - 1210854 & 1210855 ✔️
+Red Eyes of Varvatos - 1251652 & 1251653 ✅ ✔️ "icon_costume_FACE_E_01.dds" Offset 19
+
+Shadow Rebel Face - 1210352 & 1210353 ✅ ✔️ "icon_costume_FACE_A_01.dds" Offset 17
+Classy Face - 1210852 & 1210853 ✅ ✔️ "icon_costume_FACE_A_02.dds" Offset 2
+Stylish Face - 1210854 & 1210855 ✅ ✔️"icon_costume_FACE_A_02.dds" Offset 3
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Top Icons Finished]
@@ -108,26 +109,29 @@ Tangy Unmentionables - 6332256 & 6332257 ✅  ✔️ "icon_costume_UPPER_C_01.dd
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Leg Icons Finished]
 
-Legplates of the Demonic Wolf 1552352 & 1552353  ✔️
-Dark Shaman Legs - 1550754 & 1550755 ✔️
-Shadow Rebel Hotpants - 1512854 & 1512855 ✅ ✔️
+Legplates of the Demonic Wolf 1552352 & 1552353 ✅  ✔️ "icon_costume_UNDER_E_03.dds" Offset 6
+Dark Shaman Legs - 1550754 & 1550755 ✅ ✔️ "icon_costume_UNDER_E_03.dds" Offset 7
 
-Crimson Valkyrie Legplates - 1515352 & 1515353 ✅
-Sky Judgement Valkyrie - 1515354 & 1515355 ✅
+Shadow Rebel Hotpants - 1512854 & 1512855 ✅ ✔️ "icon_costume_UNDER_A_07.dds" Offset 23
+Crimson Valkyrie Legplates - 1515352 & 1515353 ✅ ✔️ "icon_costume_UNDER_A_07.dds" Offset 24
+Sky Judgement Valkyrie - 1515354 & 1515355 ✅ ✔️ "icon_costume_UNDER_A_07.dds" Offset 25
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Boot Icons Finished]
 
 Dark Shaman Boots - 1750952 & 1750953 ✅ ✔️
-Shadow Rebel Boots - 1761054 & 1761055 ✅
-Black Shoes
-Purple Shoes
-White Shoes
+
+Shadow Rebel Boots - 1761054 & 1761055 ✅✔️ "icon_costume_BOOTS_A_01.dds" Offset 17
+Classy Swimshoes (NOT ADDED YET) ✅ "icon_costume_BOOTS_A_01.dds" Offset 18
+Stylish Swimshoes (NOT ADDED YET) ✅  "icon_costume_BOOTS_A_01.dds" Offset 19
+Black Converse - 1766754 & 1766755 ✅✔️ "icon_costume_BOOTS_A_01.dds" Offset Offset 20
+Purple Converse - 1766756 & 1766757 ✅✔️ "icon_costume_BOOTS_A_01.dds" Offset 21
+White Converse - 1766758 & 1766759 ✅✔️ "icon_costume_BOOTS_A_01.dds" Offset 22
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                             [Glove Icons Finished]
 
-Guantlets of the Demonic Wolf - 1650552 & 1650553 ✔️
+Guantlets of the Demonic Wolf - 1650552 & 1650553 ✅ ✔️
 Classy Swimsuit Hands - 1610254 & 1610255 ✔️
 Stylish Swimsuit Hands - 1610256 & 1610257 ✔️
 Crimson Valkyrie Gloves - 1611852 & 1611853 ✅ ✔️
@@ -258,26 +262,28 @@ Created & Added Stylish Swimsuit Hair icon to "icon_costume_HAIR_A_09.dds" ✅
 
 Created & Added Varvatos the Demon Wolf icon to "icon_costume_HAIR_E_03.dds" ✅
 Created & Added Dark Shaman Hair icon to "icon_costume_HAIR_E_03.dds" ✅
+Added Ski Mask icon to "icon_costume_HAIR_C_01.dds" ✅
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                         [Top Icons added to .DDS files]
-Created & added Shadow Rebel Top icon to "icon_costume_UPPER_A_09.dds" ✅
-Created & added Crimson Valkyrie Armor icon to "icon_costume_UPPER_A_09.dds" ✅
-Created & added Sky Judgement Armor icon to "icon_costume_UPPER_A_09.dds" ✅
-Created & added Shiny Robe icon to "icon_costume_UPPER_A_09.dds" ✅
-Created & added Classy Swimsuit icon to "icon_costume_UPPER_A_09.dds" ✅
-Created & added Stylish Swimsuit icon to "icon_costume_UPPER_A_09.dds" ✅
-Created & added Game Master Robe icon to "icon_costume_UPPER_A_09.dds" ✅
+Created & Added Shadow Rebel Top icon to "icon_costume_UPPER_A_09.dds" ✅
+Created & Added Crimson Valkyrie Armor icon to "icon_costume_UPPER_A_09.dds" ✅
+Created & Added Sky Judgement Armor icon to "icon_costume_UPPER_A_09.dds" ✅
+Created & Added Shiny Robe icon to "icon_costume_UPPER_A_09.dds" ✅
+Created & Added Classy Swimsuit icon to "icon_costume_UPPER_A_09.dds" ✅
+Created & Added Stylish Swimsuit icon to "icon_costume_UPPER_A_09.dds" ✅
+Added Game Master Robe icon to "icon_costume_UPPER_A_09.dds" ✅
 
 Created & Added Jewelxxet Bomber icon to "icon_costume_UPPER_C_01.dds" ✅
 Created & Added Tangy Unmentionables icon to "icon_costume_UPPER_C_01.dds" ✅
 
 Created & Added Armor of The Demon Wolf icon to "icon_costume_UPPER_E_03.dds" ✅
-Created and Added Dark Shaman Top icon to "icon_costume_UPPER_E_03.dds" ✅
+Created & Added Dark Shaman Top icon to "icon_costume_UPPER_E_03.dds" ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                        [Legs Icons added to .DDS files]
-Created & Added Shadow Rebel Hotpants Icon to "icon_costume_UNDER_A_07.dds" ✅
+Added Shadow Rebel Hotpants Icon to "icon_costume_UNDER_A_07.dds" ✅
 Created & Crimson Valkyrie Legplates Hotpants Icon to "icon_costume_UNDER_A_07.dds" ✅
 Created & Added Sky Judgement Legplates Icon to "icon_costume_UNDER_A_07.dds" ✅
 
