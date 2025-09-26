@@ -1,8 +1,12 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ✔️  = Added to iteminfo / weaponsinfo
 ☑️  = Added to Iconsinfo
 ✅  = Icon Created & Added to a icon file
 
-[MELEE'S]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                          [Meele Weapon Icons Finished]
+
 Ashura - 6914400 ✅ ☑️ ✔️  [Completed]
 Daeh Pink - 7018800 ✅ ☑️ ✔️  [Completed]
 Daeh Black - 7019300 ✅ ☑️ ✔️  [Completed]
@@ -20,75 +24,216 @@ Silver Sting ✅
 Bronze Vader ✅ 
 Silver Vader ✅ 
 
-[Head Accessories]
-Blue Devil Headband - 2312152 & 2312153 ✅  ✔️ "icon_acc_MASK_10.dds" offset 21
-Yellow Devil Headband - 2312154 & 2312155 ✅  ✔️ "icon_acc_MASK_10.dds" offset 22
-Shimmering Halo - 2318052 & 2318053 ✅ ✔️"icon_acc_MASK_10.dds" offset 20 (HAS DURATIONS)
-Sakura Wreath Crown - 4383252 & 4383253 ✅ ✔️ "icon_acc_MASK_10.dds" offset 18
-Dark Mask - 2362452 & 2362453 ✅ ✔️ "icon_acc_MASK_10.dds" offset 19
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                        [Head Accessories Icons Finished]
+
 Storm Wreath Crown - 4383254 & 4383255 ✅ ✔️ "icon_acc_MASK_10.dds" offset 14
 Frozen Wreath Crown - 4383256 & 4383257 ✅ ✔️ "icon_acc_MASK_10.dds" offset 15
-Red Wreath Crown - 4383258 & 4383259 ✅ ✔️ "icon_acc_MASK_10.dds" offset 17
 Purple Wreath Crown - 4383152 & 4383153 ✅ ✔️ "icon_acc_MASK_10.dds" offset 16
+Red Wreath Crown - 4383258 & 4383259 ✅ ✔️ "icon_acc_MASK_10.dds" offset 17
+Sakura Wreath Crown - 4383252 & 4383253 ✅ ✔️ "icon_acc_MASK_10.dds" offset 18
+Dark Mask - 2362452 & 2362453 ✅ ✔️ "icon_acc_MASK_10.dds" offset 19
+Shimmering Halo - 2318052 & 2318053 ✅ ✔️"icon_acc_MASK_10.dds" offset 20 (HAS DURATIONS)
+Blue Devil Headband - 2312152 & 2312153 ✅  ✔️ "icon_acc_MASK_10.dds" offset 21
+Yellow Devil Headband - 2312154 & 2312155 ✅  ✔️ "icon_acc_MASK_10.dds" offset 22
 
-[Back Accessories]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                        [Back Accessories Icons Finished]
+
 Shimmering Wings - 2512856 & 2512857 ✅ ✔️ "icon_acc_BACK_08.dds" offset 7 (HAS DURATIONS)
-Fiery Wings - 2512856& 2512857 ✅ ✔️ "icon_acc_BACK_08.dds" offset 7 (HAS DURATIONS)
-Gray Skateboard - 2520452 & 2520453 ✅  ✔️ (HAS DURATIONS)  "icon_acc_BACK_08.dds" offset 12
-Green Icon - 2530257 & 2530258  ✅  ✔️ (HAS DURATIONS)
-Black Icon - 2530255 & 2530256  ✅  ✔️ (HAS DURATIONS)
-White Icon - 2530252 & 2530253 & 2530254 (no option) ✅  ✔️ (HAS DURATIONS)
+Fiery Wings - 2512856& 2512857 ✅ ✔️ "icon_acc_BACK_08.dds" offset 8 (HAS DURATIONS)
+Green Icon - 2530257 & 2530258  ✅ ✔️ "icon_acc_BACK_08.dds" offset 9 (HAS DURATIONS)
+Black Icon - 2530255 & 2530256  ✅ ✔️ "icon_acc_BACK_08.dds" offset 10 (HAS DURATIONS)
+White Icon - 2530252 & 2530253 & 2530254 (no option) ✅ ✔️ icon_acc_BACK_08.dds" offset 11 (HAS DURATIONS)
+Gray Skateboard - 2520452 & 2520453 ✅ ✔️ "icon_acc_BACK_08.dds" offset 12 (HAS DURATIONS)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                        [Waist Accesories Icons Finished]
+
+Black Chrono Axe -  2660456 & 2660457 ✅ ✔️ "icon_acc_BELT_08.dds" offset 6
+Red Chrono Axe - 2660454 & 2660455 ✅ ✔️ "icon_acc_BELT_08.dds" offset 7
+Pink Chrono Axe - 2660458 & 2660459 ✅ ✔️ "icon_acc_BELT_08.dds" offset 8
+Saudi Ball - 2618456 & 2618457 ✅ ✔️ "icon_acc_BELT_08.dds" offset 9 (HAS DURATIONS)
+Peru Ball - 2618454 & 2618455 ✅ ✔️ "icon_acc_BELT_08.dds" offset 10 (HAS DURATIONS)
+Romania Ball - 2618452 & 2618453 ✅ ✔️ "icon_acc_BELT_08.dds" offset 11 (HAS DURATIONS)
+Toybattles (Icon) - 2660352 & 2660353 ✔️ 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Sets]
+
+Microbolter Suit - 1840953 ✅ ✔️ "icon_costume_SET_addition.dds" offset 11
+Pink Robot Suit - 1840954 ✅ ✔️ "icon_costume_SET_addition.dds" offset 12
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                             [Hair Icons Finished]
+
+Varvatos The Demon Wolf - 1155852 & 1155853 ✅ ✔️ "icon_costume_HAIR_E_03.dds" offset 13
+Dark Shaman Hair - 1150754 & 1150756 ✅ ✔️ "icon_costume_HAIR_E_03.dds" offset 14
+
+Shadow Rebel Hair - 1167056 & 1167057 ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 2
+Crimson Valkyrie Headgear - 1116052 & 1116053 ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 3
+Sky Judgement Headgear - 1116054 &  1116055  ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 4 
+Classy Swimsuit Hair - 1113952 & 1113953 ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 5
+Stylish Swimsuit Hair - 1113954 & 1113955 ✅ ✔️ "icon_costume_HAIR_A_09.dds" offset 6
+Game Master Hair - 1168052 & 1168053 ✔️ 
 
 Ski Mask - 1130552 & 1130553 ✅ ✔️ 
 
-[Waist Accesories]
-Red Chrono Axe - 2660454 & 2660455 ✅ ✔️"icon_acc_BELT_08.dds" offset 7
-Black Chrono Axe -  2660456 & 2660457 ✅ ✔️"icon_acc_BELT_08.dds" offset 6
-Pink Chrono Axe - 2660458 & 2660459 ✅ ✔️"icon_acc_BELT_08.dds" offset 8
-Saudi Ball - 2618456 & 2618457 ✅  ✔️ (HAS DURATIONS)
-Peru Ball - 2618454 & 2618455 ✅  ✔️ (HAS DURATIONS)
-Romania Ball - 2618452 & 2618453 ✅  ✔️ (HAS DURATIONS)
-Toybattles (Icon) - 2660352 & 2660353 ✔️ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                             [Face Icons Finished]
 
-[Sets]
-Pink Robot Suit - 1840954 ✅ ✔️ 
-Microbolter Suit - 1840953 ✅  ✔️ 
-
-[Hair]
-Varvatos The Demon Wolf - 1155852 & 1155853 ✅ ✔️ 
-Dark Shaman Hair - 1150754 & 1150756 ✅ ✔️ 
-Shadow Rebel Hair - 1167056 & 1167057 ✅ ✔️ 
-Stylish Swimsuit Hair - 1113954 & 1113955 ✅ ✔️ 
-Classy Swimsuit Hair - 1113952 & 1113953 ✅ ✔️ 
-Crimson Valkyrie Headgear - 1116052 & 1116053 ✅ ✔️
-Sky Judgement Headgear - 1116054 &  1116055  ✅ ✔️
-
-[Faces]
 Red Eyes of Varvatos - 1251652 & 1251653  ✔️
 Shadow Rebel Face - 1210352 & 1210353  ✔️
 Classy Face - 1210852 & 1210853 ✔️
 Stylish Face - 1210854 & 1210855 ✔️
 
-[Tops]
-Armor of the Demonic Wolf - 1352352 & 1352353 ✅ ✔️
-Dark Shaman Top - 1350755 & 1350756 ✅ ✔️
-Shadow Rebel Top - 1319352 & 1319353 ✅ ✔️ (HAS DURATIONS)
-Jewelxxet Bomber - 1337754 & 1337755 [offset 11] ✅ ✔️
-Tangy Unmentionables - 6332256 & 6332257 [offset 12] ✅  ✔️
-Shiny Robe - 1314055 & 1314056 ✅  ✔️
-Classy Swimsuit - 1371152 & 1371153 ✅ ✔️
-Stylish Swimsuit - 1371154 & 1371155 ✅ ✔️
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                             [Top Icons Finished]
 
-[Legs]
+Armor of the Demonic Wolf - 1352352 & 1352353 ✅ ✔️ "icon_costume_UPPER_E_03.dds" offset 14
+Dark Shaman Top - 1350755 & 1350756 ✅ ✔️ "icon_costume_UPPER_E_03.dds" offset 15
+
+Shadow Rebel Top - 1319352 & 1319353 ✅ ✔️ "icon_costume_UPPER_A_09.dds" offset 22 (HAS DURATIONS)
+Crimson Valkyrie Armor - 1316052 & 1316053 ✅ ✔️ "icon_costume_UPPER_A_09.dds" offset 23
+Sky Judgement Armor - 1316054 & 1316055 ✅ ✔️ "icon_costume_UPPER_A_09.dds" offset 24
+Shiny Robe - 1314055 & 1314056 ✅  ✔️ "icon_costume_UPPER_A_09.dds" offset 25
+Classy Swimsuit - 1371152 & 1371153 ✅ ✔️"icon_costume_UPPER_A_09.dds" offset 26
+Stylish Swimsuit - 1371154 & 1371155 ✅ ✔️ "icon_costume_UPPER_A_09.dds" offset 27
+Game Master Robe - 1314053 & 1314054 ✅ ✔️ "icon_costume_UPPER_A_09.dds" offset 28 (HAS DURATIONS)
+
+Jewelxxet Bomber - 1337754 & 1337755 ✅ ✔️ "icon_costume_UPPER_C_01.dds" offset 11
+Tangy Unmentionables - 6332256 & 6332257 ✅  ✔️ "icon_costume_UPPER_C_01.dds" offset 12
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                             [Leg Icons Finished]
+
 Legplates of the Demonic Wolf 1552352 & 1552353  ✔️
 Dark Shaman Legs - 1550754 & 1550755 ✔️
 Shadow Rebel Hotpants - 1512854 & 1512855 ✅ ✔️
 
-[Boots]
+Crimson Valkyrie Legplates - 1515352 & 1515353 ✅
+Sky Judgement Valkyrie - 1515354 & 1515355 ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                             [Boot Icons Finished]
+
 Dark Shaman Boots - 1750952 & 1750953 ✅ ✔️
 Shadow Rebel Boots - 1761054 & 1761055 ✅
 
-[Gloves]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                            [Glove Icons Finished]
+
 Guantlets of the Demonic Wolf - 1650552 & 1650553 ✔️
 Classy Swimsuit Hands - 1610254 & 1610255 ✔️
 Stylish Swimsuit Hands - 1610256 & 1610257 ✔️
+Crimson Valkyrie Gloves - 1611852 & 1611853 ✅ ✔️
+Sky Judgement Gloves - 1611854 & 1611855 ✅ ✔️
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✅ = Finnished
+❌ = Unfinished
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                [Items Renamed]
+
+Classic Swimsuit Hair > Classy Swimsuit Hair ✅
+Classic Swimsuit Hands > Classy Swimsuit Hands ✅
+Classic Swimsuit > Classy Swimsuit ✅
+Silver Knight's Headgear > Crimson Valkyrie Headgear ✅
+Silver Knight's Headgear > Sky Judgement Headgear ✅
+Silver Knight's Armor > Crimson Valkyrie Armor ✅
+Silver Knight's Armor > Sky Judgement Armor ✅
+Silver Knight's Legs > Crimson Valkyrie Legs ✅
+Silver Knight's Legs > Sky Judgement Legs ✅ 
+Silver Knight's Gloves > Crimson Valkyrie Gloves ✅ 
+Silver Knight's Gloves > Sky Judgement Gloves ✅ 
+Legplates of the Demoic Wolf > Legplates of the Demonic Wolf ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                             [Item Descriptions]
+
+Added Description "The crimson helm of unstoppable resolve. - Made By MagicIniesta" for Crimson Valkyrie Headgear ✅
+Added Description Crimson wings of war carry you into the heart of battle. - Made By MagicIniesta" for Crimson Valkyrie Armor ✅
+Added Description "A storm of crimson fury rises wherever you tread. - Made By MagicIniesta" for Crimson Valkyrie Legs ✅
+Added Description "Grasp the battlefield and bend it to your will. - Made By MagicIniesta" for Crimson Valkyrie Gloves ✅
+Added Description "A helm that commands the heavens and your foes alike. - Made By MagicIniesta" for Sky Judgement Headgear ✅
+Added Description "The horizon yields to the bearer of absolute justice. - Made By MagicIniesta" for Sky Judgement Armor ✅
+Added Description "Wearing this, you are the eye of the storm. - Made By MagicIniesta" for Sky Judgement Legs ✅
+Added Description "Fists that channel the fury of the heavens - Made By MagicIniesta" for Sky Judgement Gloves ✅
+Added "-Made by Fruitblend" to Classy Swimsuit Hair ✅
+Added "-Made by Fruitblend" to Classy Swimsuit ✅
+Added "-Made by Fruitblend" to Classy Swimsuit Hands ✅
+Added "-Made by Fruitblend" to Stylish Classy Swimsuit Hair ✅
+Added "-Made by Fruitblend" to Stylish Swimsuit ✅
+Added "-Made by Fruitblend" to Stylish Swimsuit Hands ✅
+Changed Descriptions for Red Chrono Axe to "- Made By DaLynns" ✅
+Changed Descriptions for Black Chrono Axe to "- Made By DaLynns" ✅
+Changed Descriptions for Pink Chrono Axe to "- Made By DaLynns" ✅
+Added missing Description "Mastery of Sorcery, the unmentioned unspoken of, shaman. - Made By Mikaela" for Dark Shaman Hair ✅
+Added missing Description "Mastery of Sorcery, the unmentioned unspoken of, shaman. - Made By Mikaela" for Dark Shaman Legs ✅
+Added missing Description "Mastery of Sorcery, the unmentioned unspoken of, shaman. - Made By Mikaela" for Dark Shaman Boots ✅
+Modified Description of Varvatos The Demon Wolf and added "- Made By Wave" ✅
+Modified Description of Red Eyes of Varvatos and added "- Made By Wave" ✅
+Modified Description of Armor of the Demonic Wolf and added "- Made By Wave" ✅
+Modified Description of Gauntlets of the Demonic Wolf and added "- Made By Wave" ✅
+Modified Description of Legplates of the Demonic Wolf and added "- Made By Wave" ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                   [Weapon Icons Added to .DDS files]
+
+Created & Added Ashura Icon to "icon_weapon_KNIFE_08.dds" ✅
+Created & Added Black Daeh Icon to "icon_weapon_KNIFE_08.dds" ✅
+Created & Added White Daeh Icon to "icon_weapon_KNIFE_08.dds" ✅
+Created & Added Void Nether Blade Icon to "icon_weapon_KNIFE_08.dds" ✅
+Created & Added Red Clover Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Pink Daeh Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Soul Reaper Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Indigo Balloon Sword Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Burgundy Balloon Sword Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Shamrock Balloon Sword Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Hanami Dango Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Shitatama Dango Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Ube Dango Icon to "icon_weapon_KNIFE_08.dds" ✅
+Added Silverberg Icon to "icon_weapon_KNIFE_06.dds" ✅
+Added Bronzeberg Icon to "icon_weapon_KNIFE_06.dds" ✅
+Adjusted Position of Bronze Bass Icon in "icon_weapon_KNIFE_07.dds" ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                  [Head Accessory Icons added to .DDS files]
+
+Created & Added Storm Wreath Crown icon to "icon_acc_MASK_10.dds" ✅
+Created & Added Frozen Wreath Crown icon to "icon_acc_MASK_10.dds" ✅
+Created & Added Purple Wreath Crown icon to "icon_acc_MASK_10.dds" ✅
+Created & Added Red Wreath Crown icon to "icon_acc_MASK_10.dds" ✅
+Created & Added Dark Mask icon to "icon_acc_MASK_10.dds" ✅
+Created & Added Zebra Horns icon to "icon_acc_MASK_10.dds" ✅
+Added Sakura Wreath Crown icon to "icon_acc_MASK_10.dds" ✅
+Added Shimmering Halo icon to "icon_acc_MASK_10.dds" ✅
+Added Blue Devil Headbands icon to "icon_acc_MASK_10.dds" ✅
+Added Yellow Devil Headbands icon to "icon_acc_MASK_10.dds" ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                  [Back Accessory Icons added to .DDS files]
+
+Added Shimmering Wings icon to "icon_acc_BACK_08.dds" ✅
+Added Fiery Wings icon to "icon_acc_BACK_08.dds" ✅
+Craeted & Added Green Icon icon to "icon_acc_BACK_08.dds" ✅
+Craeted & Added Black Icon icon to "icon_acc_BACK_08.dds" ✅
+Craeted & Added White Icon icon to "icon_acc_BACK_08.dds" ✅
+Craeted & Added Gray Skateboard icon to "icon_acc_BACK_08.dds" ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                  [Waist Accessory  Icons added to .DDS files]
+
+Added Black Chrono Axe icon to "icon_acc_BELT_08.dds" ✅
+Added Red Chrono Axe icon to "icon_acc_BELT_08.dds" ✅
+Added Pink Chrono Axe icon to "icon_acc_BELT_08.dds" ✅
+Added Saudi icon to "icon_acc_BELT_08.dds" ✅
+Added Peru icon to "icon_acc_BELT_08.dds" ✅
+Added Romania icon to "icon_acc_BELT_08.dds" ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                       [Hand Icons added to .DDS files]
+Added icon to
