@@ -15,6 +15,14 @@ Indigo Balloon Sword - 7019100 ✅ ☑️ ✔️  [Completed]
 Burgundy Balloon Sword - 7018900 ✅  ☑️  ✔️  [Completed]
 Shamrock Balloon Sword - 7019000 ✅ ☑️  ✔️  [Completed]
 Void Nether Blade - 7019400 ✅ ☑️  ✔️  [Completed]
+7019500 - Hanami Dango - offset 25 icon_weapon_KNIFE_08.dds ✅ ☑️  ✔️  [Completed]
+7019600 - Shiratama Dango - offset 26 icon_weapon_KNIFE_08.dds ✅ ☑️  ✔️  [Completed]
+7019700 - Ube Dango - offset 27 icon_weapon_KNIFE_08.dds ✅ ☑️  ✔️  [Completed]
+7020200 - Red Clover - offset 29 icon_weapon_KNIFE_08.dds ✅ ☑️  ✔️  [Completed]
+7020100 - Candy Cane Licorice - offset 29 icon_weapon_KNIFE_07.dds ✅ ☑️  ✔️
+7020000 - Blue Light Stick - offset 12 icon_weapon_KNIFE_09.dds ✅ ☑️  ✔️
+7019900 - Orange Light Stick - offset 11 icon_weapon_KNIFE_09.dds ✅ ☑️  ✔️
+7019800 - Red Light Stick - icon_weapon_KNIFE_09.dds ✅ ☑️  ✔️
 Bronzeberg ✅ 
 Silverberg ✅ 
 Bronze Jackryan ✅ 
@@ -37,15 +45,23 @@ Shimmering Halo - 2318052 & 2318053 ✅ ☑️ ✔️"icon_acc_MASK_10.dds" offs
 Blue Devil Headband - 2312152 & 2312153 ✅ ☑️ ✔️ "icon_acc_MASK_10.dds" offset 21 [Completed]
 Yellow Devil Headband - 2312154 & 2312155 ✅ ☑️ ✔️ "icon_acc_MASK_10.dds" offset 22 [Completed]
 
+Blue Snowflake - 2385052 & 2385053 - ✅ ✔️ ☑️ "icon_acc_MASK_09.dds" offset 27 (HAS DURATIONS)
+Cyan Snowflake - 2385054 & 2385055 - ✅ ✔️ ☑️ "icon_acc_MASK_09.dds" offset 28 (HAS DURATIONS)
+Cink Snowflake -2385056 & 2385056 - ✅ ✔️ ☑️ "icon_acc_MASK_09.dds" offset 29 (HAS DURATIONS)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                         [Back Accessories Icons Finished]
 
-Shimmering Wings - 2512854 & 2512855 ✅  ✔️ "icon_acc_BACK_08.dds" offset 7 (HAS DURATIONS) [Completed]
-Fiery Wings - 2512856 & 2512857 ✅  ✔️ "icon_acc_BACK_08.dds" offset 8 (HAS DURATIONS) [Completed]
+Shimmering Wings - 2512854 & 2512855 ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 7 (HAS DURATIONS) [Completed]
+Fiery Wings - 2512856 & 2512857 ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 8 (HAS DURATIONS) [Completed]
 Green Icon - 2530257 & 2530258  ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 9 (HAS DURATIONS) [Completed]
 Black Icon - 2530255 & 2530256  ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 10 (HAS DURATIONS) [Completed]
 White Icon - 2530252 & 2530253 & 2530254 (no option) ✅ ☑️ ✔️ icon_acc_BACK_08.dds" offset 11 (HAS DURATIONS) [Completed]
 Gray Skateboard - 2520452 & 2520453 ✅ ☑️ ✔️ "icon_acc_BACK_08.dds" offset 12 (HAS DURATIONS) [Completed]
+
+Blue Wings - 2532052 & 2532053 - ✅ ☑️ ✔️ "icon_acc_BACK_09.dds" offset 8 (HAS DURATIONS)
+Cyan Wings - 2532054 & 2532055 - ✅ ☑️ ✔️ "icon_acc_BACK_09.dds" offset 9 (HAS DURATIONS)
+Pink Wings - 2532056 & 2532057 - ✅ ☑️ ✔️ "icon_acc_BACK_09.dds" offset 10 (HAS DURATIONS)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                         [Waist Accesories Icons Finished]
@@ -80,6 +96,10 @@ Game Master Hair - 1168052 & 1168053 ✅ ☑️ ✔️ "icon_costume_HAIR_A_09.d
 
 Ski Mask - 1130552 & 1130553 ✅ ☑️ ✔️ "icon_costume_HAIR_C_01.dds" offset 11 [Completed]
 
+Blue Hair - 1138952 & 1138953 - ✅ ☑️✔️ "icon_costume_HAIR_C_04.dds" offset 20 (HAS DURATIONS)
+Cyan Hair 1138954 & 1138955 - ✅ ☑️ ✔️ "icon_costume_HAIR_C_04.dds" offset 21 (HAS DURATIONS)
+Pink Hair 1138956 & 1138957 - ✅ ☑️ ✔️ "icon_costume_HAIR_C_04.dds" offset 22 (HAS DURATIONS)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Face Icons Finished]
 
@@ -105,7 +125,11 @@ Stylish Swimsuit - 1371154 & 1371155 ✅ ☑️ ✔️ "icon_costume_UPPER_A_09.
 Game Master Robe - 1314053 & 1314054 ✅ ☑️ ✔️ "icon_costume_UPPER_A_09.dds" offset 28 (HAS DURATIONS) [Completed]
 
 Jewelxxet Bomber - 1337754 & 1337755 ✅ ☑️ ✔️ "icon_costume_UPPER_C_01.dds" offset 11 
-Tangy Unmentionables - 6332256 & 6332257 ✅ ☑️  ✔️ "icon_costume_UPPER_C_01.dds" offset 12 [Completed]
+Tangy Unmentionables - 6332256 & 6332257 ✅ ☑️ ✔️ "icon_costume_UPPER_C_01.dds" offset 12 [Completed]
+Blue Snowflake Top - 1339852 & 1339853 - ☑️ ✔️ "icon_costume_UPPER_C_06.dds" offset 2 (HAS DURATIONS)
+Cyan Snowflake Top - 1339854 & 1339855 - ☑️ ✔️ "icon_costume_UPPER_C_06.dds" offset 3 (HAS DURATIONS)
+Pink Snowflake Top - 1339856 & 1339857 - ☑️ ✔️ "icon_costume_UPPER_C_06.dds" offset 4 (HAS DURATIONS)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Leg Icons Finished]
@@ -129,6 +153,10 @@ Stylish Swimsuit Hands - 1610256 & 1610257 ✅ ☑️ ✔️ "icon_costume_ARM_A
 Crimson Valkyrie Gloves - 1611852 & 1611853 ✅ ☑️ ✔️ "icon_costume_ARM_A_01.dds" Offset 18 [Completed]
 Sky Judgement Gloves - 1611854 & 1611855 ✅ ☑️ ✔️ "icon_costume_ARM_A_01.dds" Offset 18 [Completed]
 
+Blue Gloves - 1635952 & 1635953 - ✅ ☑️ ✔️ "icon_costume_ARM_C_03.dds" offset 16 (HAS DURATIONS)
+Cyan Gloves - 1635954 & 1635955 - ✅ ☑️ ✔️ "icon_costume_ARM_C_03.dds" offset 17 (HAS DURATIONS)
+Pink Gloves - 1635956 & 1635957 - ✅ ☑️ ✔️ "icon_costume_ARM_C_03.dds" offset 18 (HAS DURATIONS)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              [Boot Icons Finished]
 
@@ -141,6 +169,9 @@ Black Converse - 1766754 & 1766755 ✅ ☑️ ✔️ "icon_costume_BOOTS_A_01.dd
 Purple Converse - 1766756 & 1766757 ✅ ☑️ ✔️ "icon_costume_BOOTS_A_01.dds" Offset 21 [Completed]
 White Converse - 1766758 & 1766759 ✅ ☑️ ✔️ "icon_costume_BOOTS_A_01.dds" Offset 22 [Completed]
 Game Master Sandals - 1714052 & 1714053 ✅ ☑️ ✔️ "icon_costume_BOOTS_A_06.dds" Offset 27 [Completed]
+Blue Heels - 1738552 & 1738553 - ✅ ☑️ ✔️ "icon_costume_BOOTS_C_04.dds" offset 20 (HAS DURATIONS)
+Cyan Heels - 1738554 & 1738555 - ✅ ☑️ ✔️ "icon_costume_BOOTS_C_04.dds" offset 21 (HAS DURATIONS)
+Pink Heels - 1738556 & 1738557 - ✅ ☑️ ✔️ "icon_costume_BOOTS_C_04.dds" offset 22 (HAS DURATIONS)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
