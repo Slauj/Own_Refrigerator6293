@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ❌ = Item is NOT Fixable
-☑️ = Item issue Fixed
-✅ = Item issue fix confirmed
+☑️ = Item issue Fixed (Not tested)
+✅ = Item issue fix tested & confirmed
 
 💣 = Room Crash CONFIRMED
 💡 = Glow Bug CONFIRMED
@@ -36,8 +36,8 @@ AWM-Vulcano - 6912100 > 6912179 - Lobby Crashes 💣 - Glow Bug 💡
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                           [Gatling Weapons]
-M-135 & M-135(coupon) - Has equipment speed like gabriel / baronette sniper (remove it)
-Optimus S205 minigun - Has equipment speed like gabriel / baronette sniper (remove it)
+M-135 & M-135(coupon) - Has equipment speed like gabriel / baronette sniper (remove it) ☑️
+Optimus S205 minigun - Has equipment speed like gabriel / baronette sniper (remove it) ☑️
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -89,14 +89,14 @@ Delightful Horus Top - 1371603 > 1371653 & 1371604 & 1371654 - Dissapears on dea
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                [Sets]
-One-piece Swimsuit (Amelia) - 1847800 > 1847850 - Unbalanced set: gives 16 % RS, should be 12 %
-One-piece Swimsuit (wrong set, should be same as above but different color?⬆️) - 1847802 > 1847852 - Shows wrong item -> Pandora Blue beach Bikini - img: https://imgur.com/a/nCV66dw
-Stewardess (Bugged pandora) - 1842406 > 1842457 - set is not on character, it floats. - img: https://imgur.com/a/EllliMZ 
-Spicy Outfit (Bugged pandora) - 1842404 > 1842455 - Set is not on character, it floats + extra hands floating - img: https://imgur.com/a/ZvWoaxJ
-MRD-Scarlet Striker Suit (Pandora) - 1846507 > 1846557 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description
-MRD-Pink Horizon Suit (Pandora) - 1846501 > 1846551 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description
-MRD-Darkstar Impact Suit (Pandora) - 1846505 > 1846555 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description
-MRD-Solar Burst Suit (Pandora) - 1846503 > 1846553 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description
+One-piece Swimsuit (Amelia) - 1847800 > 1847850 - Unbalanced set: gives 16 % RS, should be 12 % ☑️
+One-piece Swimsuit (wrong set, should be same as above but different color?⬆️) - 1847802 > 1847852 - Shows wrong item -> Pandora Blue beach Bikini - img: https://imgur.com/a/nCV66dw ------- Pandora Top Does not exist for Amelia?
+Stewardess (Bugged pandora) - 1842406 > 1842457 - set is not on character, it floats. - img: https://imgur.com/a/EllliMZ ❌ 
+Spicy Outfit (Bugged pandora) - 1842404 > 1842455 - Set is not on character, it floats + extra hands floating - img: https://imgur.com/a/ZvWoaxJ ❌
+MRD-Scarlet Striker Suit (Pandora) - 1846507 > 1846557 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description ☑️
+MRD-Pink Horizon Suit (Pandora) - 1846501 > 1846551 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description ☑️
+MRD-Darkstar Impact Suit (Pandora) - 1846505 > 1846555 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description ☑️
+MRD-Solar Burst Suit (Pandora) - 1846503 > 1846553 - HP stats not correct: should give +400 HP and not +320 hp & 2 % RS + wrong stats description ☑️
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                [Legs]
@@ -105,6 +105,6 @@ Pandora Horus Legs - Disseapers on death - 🥷 ❌
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                [Shoes]
-White Tiger Daopian - 1739501 > 1739551 (gives extra +20 hp instead of 80 hp)
-Christmas Party Heels - 1739401 > 1739451 (Gives extra +20 hp instead of 80) PRIORITY FOR CHRISTMAS UPDATE
-Mature School Girl Heels - 1739201	> 1739251 (Gives extra +20 hp instead of 80)
+White Tiger Daopian - 1739501 > 1739551 (gives extra +20 hp instead of 80 hp) ☑️
+Christmas Party Heels - 1739401 > 1739451 (Gives extra +20 hp instead of 80) PRIORITY FOR CHRISTMAS UPDATE ☑️
+Mature School Girl Heels - 1739201	> 1739251 (Gives extra +20 hp instead of 80) ☑️
